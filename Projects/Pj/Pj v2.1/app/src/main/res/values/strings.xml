@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PJ</string>
+    <string name="base_rate">Base Rate :</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="cal">Cal</string>
+    <string name="space" />
+    <string name="_24_cr">24 Cr.</string>
+    <string name="_22_cr">22 Cr.</string>
+    <string name="_1_tula">1 Tula :</string>
+    <string name="_1_2_tula">1/2 Tula :</string>
+    <string name="_1_4_tula">1/4 Tula :</string>
+    <string name="_1_gram">1 Gram :</string>
+
+</resources>

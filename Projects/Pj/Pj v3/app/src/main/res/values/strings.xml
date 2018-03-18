@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pj</string>
+    <string name="base_rate">Base Rate :</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="cal">Cal</string>
+    <string name="_24_cr">24 Ct.</string>
+    <string name="_22_cr">22 Ct.</string>
+    <string name="_1_tula">1 Tula :</string>
+    <string name="_1_2_tula">&#189; Tula :</string>
+    <string name="_1_4_tula">&#188; Tula :</string>
+    <string name="_1_gram">1 Gram :</string>
+    <string name="Act1">Normal</string>
+    <string name="Act2">GST</string>
+    <string name="normal">Normal</string>
+    <string name="gst">GST</string>
+    <string name="caln">Cal</string>
+    <string name="base_raten">Base Rate :</string>
+    <string name="_24_ctn">24 Ct. :</string>
+    <string name="_22_ctn">22 Ct. :</string>
+
+</resources>

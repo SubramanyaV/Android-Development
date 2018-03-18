@@ -1,0 +1,9 @@
+No value entered exception----Error message(Toast)
+
+
+String text = base.getText().toString();
+if (text == null || text.equals("")) 
+{
+	Toast.makeText(getApplicationContext(), "Please enter a number and try again.", Toast.LENGTH_SHORT).show();
+        return;
+}

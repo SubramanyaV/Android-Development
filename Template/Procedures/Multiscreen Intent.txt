@@ -1,0 +1,14 @@
+Step 1: In activity_name.xml
+		-Go to the TextView (or) ImageView (or) Button (or) .....
+		-In that View add a statement "android:onClick="some_function_name"
+		-Now a Hint appears when we hover the cursor over the function name (bulb)
+		-Click the bulb and click the option to "Create function_name(View) in 'class_name_of_that_activity'"
+Step 2: Now go to the java file of that activity
+		-There already by the name of the function given in the xml file is created
+		-Now give the body of that function as
+			"Intent obj_name = new Intent (this,$.class);
+			 startActivity(obj_name);
+
+obj_name = name of the newly created object of class Intent(Predefined)
+This in the syntax is the context
+$ = class name of activity to which you whish to navigate to. 

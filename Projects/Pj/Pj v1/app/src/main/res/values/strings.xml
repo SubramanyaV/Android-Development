@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Price Calculator</string>
+    <string name="base_rate">Base Rate:</string>
+    <string name="ryui">Enter Value</string>
+    <string name="rtyui">Calculate</string>
+    <string name="erthj">Selling Price(24ct):</string>
+    <string name="aasfghjk">Selling Price(22ct):</string>
+</resources>

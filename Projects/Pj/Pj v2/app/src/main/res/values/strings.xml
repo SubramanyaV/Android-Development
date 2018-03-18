@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PJ</string>
+    <string name="base_rate">Base Rate :</string>
+    <string name="_24ct">24ct</string>
+    <string name="_22ct">22ct</string>
+    <string name="_1_2_tula">1/2 Tula :</string>
+    <string name="_1_4_tula">1/4 Tula :</string>
+    <string name="_1_gram">1 Gram :</string>
+    <string name="_1_tula">1 Tula :</string>
+    <string name="cal">Cal</string>
+</resources>
